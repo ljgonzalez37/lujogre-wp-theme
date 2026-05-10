@@ -18,7 +18,7 @@
                 <div class="footer-social-row">
                     <?php
                     $socials = [
-                        ['LinkedIn',            get_theme_mod('contact_linkedin', '')],
+                        ['LinkedIn',            get_theme_mod('contact_linkedin', 'https://www.linkedin.com/in/luisjgonzalez/')],
                         ['GitHub',              get_theme_mod('contact_github',   '')],
                         ['YouTube',             get_theme_mod('contact_youtube',  '')],
                         ['Snowflake Community', 'https://community.snowflake.com'],

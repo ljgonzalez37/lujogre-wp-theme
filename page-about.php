@@ -123,7 +123,7 @@ get_header(); ?>
                         ['MBA, Technology Management',   'Graduate Business School'],
                         ['MS, Anthropology',             'University of South Africa (UNISA)'],
                         ['Snowflake Advanced Architect', 'Snowflake Inc.'],
-                        ['Snowflake Data Engineer',      'Snowflake Inc.'],
+                        ['Snowflake Core Certification',  'Snowflake Inc.'],
                         ['IEEE Member',                  'Institute of Electrical and Electronics Engineers'],
                         ['ACM Member',                   'Association for Computing Machinery'],
                     ] as [$name,$issuer]) : ?>
@@ -181,14 +181,13 @@ get_header(); ?>
 
                 <span class="eyebrow">Résumé</span>
                 <p style="font-size:.875rem;color:var(--text-sec);margin-bottom:12px;">
-                    Download a current PDF version of my CV.
+                    My full professional history, academic appointments, certifications, and publications are available on LinkedIn.
                 </p>
-                <?php $resume = get_theme_mod('resume_url',''); ?>
-                <?php if ($resume) : ?>
-                <a href="<?php echo esc_url($resume); ?>" class="btn btn--primary" download>Download Résumé</a>
-                <?php else : ?>
-                <a href="<?php echo esc_url(home_url('/work-with-me')); ?>" class="btn btn--outline">Request via Contact</a>
-                <?php endif; ?>
+                <?php $li = get_theme_mod('contact_linkedin','https://www.linkedin.com/in/luisjgonzalez/'); ?>
+                <a href="<?php echo esc_url($li); ?>"
+                   class="btn btn--primary"
+                   target="_blank"
+                   rel="noopener noreferrer">View on LinkedIn</a>
             </div>
 
         </div>

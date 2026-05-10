@@ -234,7 +234,7 @@ function lujogre_customizer($wp_customize) {
     foreach ([
         'contact_email'       => ['Contact Email',          'doctorg@lujogre.com'],
         'contact_address'     => ['Mailing Address',        'P.O. Box 154, Monument, CO 80132'],
-        'contact_linkedin'    => ['LinkedIn URL',           ''],
+        'contact_linkedin'    => ['LinkedIn URL', 'https://www.linkedin.com/in/luisjgonzalez/'],
         'contact_github'      => ['GitHub URL',             ''],
         'contact_youtube'     => ['YouTube URL',            ''],
         'resume_url'          => ['Résumé PDF URL',         ''],
