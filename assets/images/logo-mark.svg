@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 76" role="img" aria-label="lujogre.com">
+  <title>lujogre.com</title>
+  <path d="M 6 56 A 46 46 0 0 1 68 72" fill="none" stroke="#0B2D55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 16 40 A 30 30 0 0 1 62 62" fill="none" stroke="#0B2D55" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 26 26 A 17 17 0 0 1 56 52" fill="none" stroke="#29B5E8" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="68" cy="72" r="6.5" fill="#29B5E8"/>
+  <circle cx="68" cy="72" r="2.5" fill="#ffffff"/>
+</svg>

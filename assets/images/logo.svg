@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="lujogre.com — Luis Gonzalez">
+  <title>lujogre.com — Luis Gonzalez</title>
+  <path d="M 8 46 A 36 36 0 0 1 62 60" fill="none" stroke="#0B2D55" stroke-width="6.5" stroke-linecap="round"/>
+  <path d="M 17 32 A 23 23 0 0 1 56 52" fill="none" stroke="#0B2D55" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M 25 20 A 13 13 0 0 1 50 42" fill="none" stroke="#29B5E8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="62" cy="60" r="5" fill="#29B5E8"/>
+  <circle cx="62" cy="60" r="2" fill="#ffffff"/>
+  <line x1="78" y1="10" x2="78" y2="56" stroke="#dde3ec" stroke-width="0.8"/>
+  <text x="90" y="32"
+        font-family="'DM Serif Display',Georgia,serif"
+        font-size="22"
+        font-weight="700"
+        fill="#0B2D55"
+        letter-spacing="0.2">lujogre.com</text>
+  <text x="91" y="50"
+        font-family="'Outfit','Segoe UI',system-ui,sans-serif"
+        font-size="10.5"
+        font-weight="400"
+        fill="#8898aa"
+        letter-spacing="2.8">LUIS GONZALEZ</text>
+</svg>
